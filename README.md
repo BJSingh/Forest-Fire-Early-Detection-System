@@ -4,7 +4,7 @@ This repo contains code files &amp; related documents for Forest Fire Early Dete
 ### Working Block Diagram
 ![working block image](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/Forest%20fire%20Detection%20system%20workingblock.png)
 ### Wiring Circuit Diagram
-![Kaede Board Pinout](https://www.renesas.com/img/gadget-renesas/gr-kaede/gr-kaede-pin-map.jpg)
+![Forest fire early detection wiring image](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/forest%20fire%20early%20detection%20system%20wiring.svg)
 
 **Download and extract codes:**
 - [FFEDS Webapp.zip](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/FFEDS%20webapp.zip) -> Web app, which is html files to view dashboard</br>
