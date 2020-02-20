@@ -4,6 +4,8 @@ This repo contains code files &amp; related documents for Forest Fire Early Dete
 ### Working Block Diagram
 ![working block image](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/Forest%20fire%20Detection%20system%20workingblock.png)
 ### Wiring Circuit Diagram
+![components Actual connection](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/components%20connection.png)
+
 ![Forest fire early detection wiring image](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/forest%20fire%20early%20detection%20system%20wiring.svg)
 
 **Download and extract codes:**
