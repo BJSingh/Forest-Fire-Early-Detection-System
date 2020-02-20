@@ -2,7 +2,7 @@
 This repo contains code files &amp; related documents for Forest Fire Early Detection System Project
 
 ### Working Block Diagram
-
+![working block image](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/Forest%20fire%20Detection%20system%20workingblock.png)
 ### Wiring Circuit Diagram
 ![Kaede Board Pinout](https://www.renesas.com/img/gadget-renesas/gr-kaede/gr-kaede-pin-map.jpg)
 
