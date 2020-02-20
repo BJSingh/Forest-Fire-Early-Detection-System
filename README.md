@@ -1,7 +1,12 @@
 # Forest-Fire-Early-Detection-System
 This repo contains code files &amp; related documents for Forest Fire Early Detection System Project
 
-**Download and extract:**</br>
+### Working Block Diagram
+
+### Wiring Circuit Diagram
+![Kaede Board Pinout](https://www.renesas.com/img/gadget-renesas/gr-kaede/gr-kaede-pin-map.jpg)
+
+**Download and extract codes:**
 - [FFEDS Webapp.zip](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/FFEDS%20webapp.zip) -> Web app, which is html files to view dashboard</br>
 - [FFEDS_hardwarefinal_code.zip](https://github.com/BJSingh/Forest-Fire-Early-Detection-System/blob/master/FFEDS_hardwarefinal_code.zip) -> Hardware code, gr_sketch.cpp which is main code file.
 
